@@ -1,0 +1,23 @@
+segment_sources:
+  I15E96F63:
+    type: origin_type
+    relation: translation
+    language: sa
+  I49AD8883:
+    type: origin_type
+    relation: translation
+    language: zh
+  IDD5D4F1C:
+    type: origin_type
+    relation: translation
+    language: bo
+  I2D64FC3C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  f4268dcd9a7b4c64b0dfdd153524c618:
+    I15E96F63: bffb1eb253f14b8587c63220d089908c
+    I49AD8883: None
+    IDD5D4F1C: 2e94e1b7d089408ab25e180db5cf16d3
+    I2D64FC3C: 2a56a5525dc74125b31941a0770c0cd7

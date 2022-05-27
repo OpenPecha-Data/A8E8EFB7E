@@ -1,0 +1,58 @@
+segment_sources:
+  I15E96F63:
+    type: origin_type
+    relation: translation
+    language: sa
+  I49AD8883:
+    type: origin_type
+    relation: translation
+    language: zh
+  IDD5D4F1C:
+    type: origin_type
+    relation: translation
+    language: bo
+  I2D64FC3C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  508f828caacf4840894d129b09fae81c:
+    I15E96F63: 491ca6b7597c40ba8bafafc705f64106
+    I49AD8883: e4bc0361e0284f098a6f3fb9f9c57899
+    IDD5D4F1C: dbffeca0686d4704bc0891b5e23d3b82
+    I2D64FC3C: 6888a768fdb948db81920dfdab849d0d
+  546633f908144468b7dd03ea1481c776:
+    I15E96F63: d62d4ee9a2ae406ca73e5216e59ed8d8
+    I49AD8883: a6e6b4db4eb14e0b998b634108b7a07e
+    IDD5D4F1C: 434dd8b9bbdd49e092d23ec9531e69ec
+    I2D64FC3C: 0e1c8028deb64b99891e3149409263a8
+  46149f253f994ffe9ed83e98d36482d9:
+    I15E96F63: f8ab728d64ec4973a07a764bfe530798
+    I49AD8883: 4301e09a4df0410cac14b69d60d90133
+    IDD5D4F1C: b10ba6327262449587b26175beb16369
+    I2D64FC3C: 368468d9a8af4cb28e106de247de10e4
+  571e8c54f16046398bdd0470aaf62a09:
+    I15E96F63: e8f7ec9a07414ddea9bcbd14a801fda2
+    I49AD8883: e32354a1b49542cb8ddd9693a18ecd9f
+    IDD5D4F1C: c873a66b20d54fce93633dd459057daa
+    I2D64FC3C: f0ed4de3deff4873b06c135326545389
+  b5b955c36fac4da9956f24ef6b8f1320:
+    I15E96F63: 862a60e116cd475890b24fbc74a7edba
+    I49AD8883: 726f3a470121450599c3e3b31e6e6387
+    IDD5D4F1C: 3331b4aa593b428a9aec0a14277ab3c0
+    I2D64FC3C: 23f8cb1a1cb14e1bad104e59fbc6d7c7
+  145e9ac2cd8f455d9d47695a339b0807:
+    I15E96F63: e3c18cc7294c4263b747bbfbd4a609cf
+    I49AD8883: 61265c290d8448f2b4a8560ccb4bca2f
+    IDD5D4F1C: 42ae3fb22a7045998710a8bc1bdb36cf
+    I2D64FC3C: 1f2dac33f06b4c548679c728311ddd63
+  1ceb638f0072465b895de92c3b60cb8e:
+    I15E96F63: aeb3528ed1794074abd83363a89a04d1
+    I49AD8883: cacc2f5c2a01466e9b00975160d1baab
+    IDD5D4F1C: 4396e4ddb2f64644922bbd9e50ca6d33
+    I2D64FC3C: fdd92178677e41e3a65707d22941271c
+  cdde02b0ab6b4681b415a4b5ad11ce33:
+    I15E96F63: None
+    I49AD8883: None
+    IDD5D4F1C: None
+    I2D64FC3C: 19e7276fb7b64e0dad5dee5fb9046601
